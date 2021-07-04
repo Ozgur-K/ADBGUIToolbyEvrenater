@@ -1,0 +1,8 @@
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.csproj.AssemblyReference.cache
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.Form1.resources
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.Properties.Resources.resources
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.csproj.GenerateResource.cache
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.AssemblyInfoInputs.cache
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.AssemblyInfo.cs
+C:\Users\vok00\source\repos\ADBGUIToolbyEvrenater\ADBGUIToolbyEvrenater\obj\Debug\net5.0-windows\ADBGUIToolbyEvrenater.csproj.CoreCompileInputs.cache
